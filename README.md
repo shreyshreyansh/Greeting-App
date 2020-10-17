@@ -1,4 +1,4 @@
-#Greeting App
+# Greeting App
 
 ## Available Scripts
 
